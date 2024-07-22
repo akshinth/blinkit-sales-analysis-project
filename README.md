@@ -8,11 +8,7 @@ This project aims to conduct a comprehensive analysis of Blinkit's sales perform
 - [KPIs](#kpis)
 - [Data Sources](#data-sources)
 - [Tools and Technologies](#tools-and-technologies)
-- [Setup](#setup)
-- [Usage](#usage)
 - [Visualizations](#visualizations)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Blinkit Sales Performance Analysis is a data analytics project focused on evaluating sales performance, customer satisfaction, and inventory distribution. The project utilizes various KPIs and Power BI visualizations to uncover key insights and optimize business operations.
@@ -46,4 +42,6 @@ The Power BI report includes the following visualizations:
 - **Number of Items**: A pie chart displaying the distribution of items sold.
 - **Average Rating**: A gauge chart showing the average customer rating.
 
+## Dashboard
+The interactive Power BI dashboard is available at: [Blinkit Sales Performance Dashboard]([https://app.powerbi.com/view?r=your_dashboard_link_here](https://app.powerbi.com/view?r=eyJrIjoiM2UyOGVkZTMtMGRjNS00ZGFjLWE0NDEtMmY1MjAxZWRjNGI2IiwidCI6IjhkYmFlYzdjLWI2ZjctNGEwZi05ZjYyLTAyOGZhOTM4ZDAyOCJ9))
 
