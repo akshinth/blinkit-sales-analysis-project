@@ -43,5 +43,5 @@ The Power BI report includes the following visualizations:
 - **Average Rating**: A gauge chart showing the average customer rating.
 
 ## Dashboard
-The interactive Power BI dashboard is available at: [Blinkit Sales Performance Dashboard]([https://app.powerbi.com/view?r=your_dashboard_link_here](https://app.powerbi.com/view?r=eyJrIjoiM2UyOGVkZTMtMGRjNS00ZGFjLWE0NDEtMmY1MjAxZWRjNGI2IiwidCI6IjhkYmFlYzdjLWI2ZjctNGEwZi05ZjYyLTAyOGZhOTM4ZDAyOCJ9))
+The interactive Power BI dashboard is available at: [Blinkit Sales Performance Dashboard]([(https://app.powerbi.com/view?r=eyJrIjoiM2UyOGVkZTMtMGRjNS00ZGFjLWE0NDEtMmY1MjAxZWRjNGI2IiwidCI6IjhkYmFlYzdjLWI2ZjctNGEwZi05ZjYyLTAyOGZhOTM4ZDAyOCJ9)])
 
